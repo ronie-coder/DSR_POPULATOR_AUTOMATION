@@ -13,7 +13,8 @@ This is an automation script written in node.js specifically designed for automa
 
 #Notes
 
-If you want to rerun this again just delete the previous files from the input_files folder and copy paste the new files/file and then rerun the script
+1. Please make sure you have node installed on your pc
+2. If you want to rerun this again just delete the previous files from the input_files folder and copy paste the new files/file and then rerun the script
 
 #Important
 
