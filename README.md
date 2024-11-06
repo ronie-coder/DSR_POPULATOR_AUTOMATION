@@ -22,6 +22,7 @@ After that go to the cloned directory and type command in code editor or cmd -> 
 
 1. Please make sure you have node installed on your pc
 2. If you want to rerun this again just delete the previous files from the input_files folder and copy paste the new files/file and then rerun the script
+   This is because the date filter is still not working perfectly and it will get duplicated. It will be developed soon.
 
 #Important
 
