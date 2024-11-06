@@ -5,13 +5,13 @@ This is an automation script written in node.js specifically designed for automa
 #IMPORTANT INITIAL STEPS
 
 Make sure Node is installed in your system. To install, go to this link - https://nodejs.org/en/download/prebuilt-installer
-Download the installer and install
+Download the installer and install node.js.
 
 #Steps
 
 1. Clone the repository (To clone go to a code editor or cmd and type git clone abd the url) or directly download in zip format
 ![image](https://github.com/user-attachments/assets/79cad651-f5c0-4cc5-954e-09a837939a8b)
-
+After that go to the cloned directory and type command in code editor or cmd -> npm install
 2. Cretae a folder named input_files in the same directory
 3. Paste all the daily_orders files for a particular brand
 4. Run the index.js using the command -> "node index.js" (without the quotes)...run in CLI or any editor
